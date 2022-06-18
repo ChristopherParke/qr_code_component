@@ -1,10 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
-
-* {
-    font-family: Outfit;
-    box-sizing: border-box;
-}
-
 .card {
     width: 320px;
     height: 497px;
