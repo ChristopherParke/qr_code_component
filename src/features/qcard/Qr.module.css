@@ -2,6 +2,7 @@
 
 * {
     font-family: Outfit;
+    box-sizing: border-box;
 }
 
 .card {
@@ -12,7 +13,6 @@
     border-radius: 20px;
     text-align: center;
 }
-
 
 .code {
     width: 288px;
